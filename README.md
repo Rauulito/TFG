@@ -1,1 +1,1 @@
-# TFG
+En este repositorio de GitHub se verán los distintos modelos GAN presentados en el TFG titulado "Estudio y mejora de las redes generativas adversarias (GAN) aplicadas a la generación de imágenes de números".
